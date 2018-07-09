@@ -1,5 +1,9 @@
 # Hugo default output directory
 /public
+themes/sam/static/css/style.css.map
+
+# Sass
+.sass-cache
 
 ## OS Files
 # Windows
