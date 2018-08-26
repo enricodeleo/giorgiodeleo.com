@@ -27,7 +27,3 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/portfolio"
     text = "portfolio"
-
-[[params.mainMenu]]
-    link = "/posts"
-    text = "thoughts"
